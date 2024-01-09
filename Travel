@@ -1,3 +1,8 @@
+<html> 
+<head> 
+</head> 
+<body>
+  <!-- START CODE Attention! Do not modify this code; -->
 <script>
     var fm = "BRL";
     var to = "BRL,EUR,USD,PLN,HRK,CZK,HUF";
@@ -10,3 +15,8 @@
 </script>
 <script src="//currencyrate.today/exchangerates"></script>
 <div style="text-align:right"><a href="https://currencyrate.today">CurrencyRate</a></div>
+<!-- Attention! Do not modify this code; END CODE -->
+
+Source: https://currencyrate.today/exchangerates-widget
+</body> 
+</html>
